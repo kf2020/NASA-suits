@@ -10,7 +10,7 @@ public class random : MonoBehaviour {
 		string hello = "hello world!";
 	}
 	
-	// Update is called once per frame
+	// Update is called once per frame helloo Roshan 
 	void Update () {
 		
 	}
